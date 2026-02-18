@@ -1,7 +1,7 @@
 60ae7c693f856c359e26314f2b465550c52221d0c7a6dae6f9b876665a417409  /mnt/ZFS_A/backups/mister/vgSaves/saves/GAMEBOY2P/Pocket Monsters - Midori (Japan) (SGB Enhanced).sav
 96d72d15b0937ac3c5c32ef7e4c4bd563fe0ffb935274ad096561b883b8631cd  /mnt/ZFS_A/backups/mister/vgSaves/saves/GAMEBOY/Pocket Monsters - Midori (Japan) (SGB Enhanced)_bak.sav
 c2d4e5b1423c61022349d3d725bd59fbc0a33982112382dcfcb5c94a68711b6e  /mnt/ZFS_A/backups/mister/vgSaves/saves/GAMEBOY/Pocket Monsters - Midori (Japan) (SGB Enhanced).sav
-f83bce73fdf81dbff5e48cdd84c02bc11b14a03c421e0d74128efced48a2a082  /mnt/ZFS_A/backups/mister/vgSaves/saves/GAMEBOY/Pokemon Picross (Japan) (Proto).sav
+6d8d62ec16cb137a2882bd5a0c2912264b48c5fe40deef35b1c6a3d4b2bcdb25  /mnt/ZFS_A/backups/mister/vgSaves/saves/GAMEBOY/Pokemon Picross (Japan) (Proto).sav
 6476bc819d13f6ff25646ca3fce3a6f370fd336f1a4c3166d6315c4e4ff58d7a  /mnt/ZFS_A/backups/mister/vgSaves/saves/GAMEBOY/soulvoid.sav
 733d4b6731b814134744dd54392a8c1d2590a4ad515418de1153a8d83c30f785  /mnt/ZFS_A/backups/mister/vgSaves/saves/GBA/Hoshi no Kirby - Kagami no Daimeikyuu (Japan) (Rev 1).sav
 ba1dacd1320c86b668e160aeb49bfa3fc9b255680c43526c1e91e7b24be22f24  /mnt/ZFS_A/backups/mister/vgSaves/saves/GBA/Hoshi no Kirby - Yume no Izumi Deluxe (Japan).sav
@@ -9,7 +9,7 @@ ba1dacd1320c86b668e160aeb49bfa3fc9b255680c43526c1e91e7b24be22f24  /mnt/ZFS_A/bac
 f96903ebc03731d6378a78ebeaa71fb3ff6cc8ded26b26c48826e8b096fc37d1  /mnt/ZFS_A/backups/mister/vgSaves/saves/GBA/Pocket Monsters - Emerald (Japan).sav
 7451e1d33920edcc950382ced30ada3033c9d60993eb5e73e0e71e3f0e012448  /mnt/ZFS_A/backups/mister/vgSaves/saves/GBA/Pokemon Fushigi no Dungeon - Aka no Kyuujotai (Japan).sav
 304698393186bd7a4bd921317ab289de4080af40523b03592ed9b9980ba3e8de  /mnt/ZFS_A/backups/mister/vgSaves/saves/GBA/Super Mario Ball (Japan).sav
-95ef5444737b8173ee1fbc67e6064087b2b3688fcec93c11480392a460f5f96c  /mnt/ZFS_A/backups/mister/vgSaves/saves/N64/1080 TenEighty Snowboarding (Japan, USA) (En,Ja).sra
+469ae1d02954c1ba6b1f4daa42b102690c8df0cef6e6a1471a579d7ef4cf9574  /mnt/ZFS_A/backups/mister/vgSaves/saves/N64/1080 TenEighty Snowboarding (Japan, USA) (En,Ja).sra
 3bff4f1bbae211760c9e3cbd8943a1b92167b170245af22f959efb9df185cddb  /mnt/ZFS_A/backups/mister/vgSaves/saves/N64/Chameleon Twist (Japan).eep
 ae966997cc41345c50554680c654ef62ce161a04a6b80da3992305f0fb6b5afa  /mnt/ZFS_A/backups/mister/vgSaves/saves/N64/Conker's Bad Fur Day (USA).eep
 9345967207b1d0243ff211dc1b098272f687ce28f6c13d57cedf121626a232dd  /mnt/ZFS_A/backups/mister/vgSaves/saves/N64/Doubutsu no Mori (Japan)_1.cpk
@@ -17,7 +17,7 @@ ac530e57d8ad056eab3133e43487d2e69f3bebcdfbe80d48f3073aedf85653b8  /mnt/ZFS_A/bac
 e78ab2e1f258fde49955f587920f390261d49fb48a4af0f2879ed1f73b2ff186  /mnt/ZFS_A/backups/mister/vgSaves/saves/N64/Doubutsu no Mori (Japan)_3.cpk
 4dccb19dfb0af501567b4f106543e7599eb7842b17f1bc524bc472c92b8d5aa1  /mnt/ZFS_A/backups/mister/vgSaves/saves/N64/Doubutsu no Mori (Japan)_4.cpk
 8c24152d35d0f37fd43f88675ca4a5dd364c1c874c8e1437274a32d617248a0f  /mnt/ZFS_A/backups/mister/vgSaves/saves/N64/Doubutsu no Mori (Japan).fla
-9df5c75c5dc095732cf61320387292b9410b83487a10f5c463e0e9e6c066e23b  /mnt/ZFS_A/backups/mister/vgSaves/saves/N64/Hoshi no Kirby 64 (Japan).sra
+b897f9b656a59ef7f7d12b5cdcc99f3ee2dbbf279155b1c60ad844585edce9ef  /mnt/ZFS_A/backups/mister/vgSaves/saves/N64/Hoshi no Kirby 64 (Japan).sra
 00ade1d7666f4c440d41613fba1b2ff758b769790b4a11440b210ed58cf907a2  /mnt/ZFS_A/backups/mister/vgSaves/saves/N64/Mario Kart 64 (Japan)_1.cpk
 c5281f1bbcdb7db5d4bc9700ae75c3c1a38001374f5dbf09ab79ac7af992f31f  /mnt/ZFS_A/backups/mister/vgSaves/saves/N64/Mario Kart 64 (Japan)_2.cpk
 e78ab2e1f258fde49955f587920f390261d49fb48a4af0f2879ed1f73b2ff186  /mnt/ZFS_A/backups/mister/vgSaves/saves/N64/Mario Kart 64 (Japan)_3.cpk
